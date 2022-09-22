@@ -20,7 +20,7 @@
 /* style for the background */
 
 main{
-    background-image: url(../images/pattern-background-desktop.svg);
+    background-image: url(./images/pattern-background-desktop.svg);
     background-size: cover;
     min-height: 100vh;
     display: flex;
@@ -112,7 +112,7 @@ p{
 
 @media screen and (max-width:400px) {
     main{
-        background-image: url(../images/pattern-background-mobile.svg);
+        background-image: url(./images/pattern-background-mobile.svg);
     }
 
     
